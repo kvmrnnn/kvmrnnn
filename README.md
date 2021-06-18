@@ -11,4 +11,3 @@
 
 ## ![ladno](https://rf0x3d.su/maybe_assets/statistics_outline_28.svg) Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=kvmrnnn&show_icons=true)
-![Cringe](https://github-readme-stats.vercel.app/api/wakatime?username=kvmrnnn&layout=compact
